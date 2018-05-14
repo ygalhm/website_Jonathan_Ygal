@@ -148,3 +148,89 @@ div.iphone2 {
     left: 348px;
     margin-top: -53px;
 }
+
+    
+.block1text .block1maintitle{
+    font-size: 40px;
+    font-weight: 600;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    margin:0;
+    padding-top:50px;
+    }
+.block1text .block1subtitle{
+    font-size: 21px;
+    font-weight: 400;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    margin: 0;
+   
+}
+.block2text{
+    display: inline;
+    margin-left: 0;
+    margin-right: 0;
+    position: relative;
+    top:35px;
+}
+
+.block2text .block2maintitle{
+    padding: 0;
+    margin-bottom: 0;
+    height: 44px;
+    width: auto;
+    background-position: center top;
+    background-image: url(https://images.apple.com/v/home/dn/images/logos/music_white_large.png);
+    background-size: 129px 33px;
+    background-repeat: no-repeat;
+    
+}
+.block2text .block2subtitle{
+    margin:auto;
+    font-size: 21px;
+    line-height: 1.2381;
+    font-weight: 400;
+    letter-spacing: .016em;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+
+
+.block3text{
+    display: inline-block;
+    position: relative;
+    top:50px;
+    text-align: center;
+    color:#333333;
+}
+.block3text .block3maintitle{
+    margin: 0;
+    margin-right:17px;
+    height: 54px;
+    background-position: center top;
+    background-image: url(https://images.apple.com/euro/home/g/generic/images/logos/watch_series_3_alt_promo_large.png);
+    background-repeat: no-repeat;
+}
+
+.block3text .block3subtitle{
+    margin:0;
+    font-size: 21px;
+    line-height: 2;
+    font-weight: 400;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+
+.block4text .block4maintitle{
+    margin-bottom:0;
+    margin-top:50px;
+    font-size: 40px;
+    line-height: 1.1;
+    font-weight: 600;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+
+.block4text .block4subtitle{
+    margin-top:0;
+    font-size: 21px;
+    line-height: 1.2381;
+    font-weight: 400;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+
