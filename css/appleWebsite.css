@@ -43,4 +43,19 @@ body {
     text-align: center;
 }
 
-
+.maintitle{
+    position: relative;
+    top:25px;
+    margin: 0;
+    font-size: 56px;
+    font-weight: 700;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+.subtitle{
+    position: relative;
+    top:25px;
+    margin: 0;
+    font-size: 27px;
+    font-weight: 400;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
