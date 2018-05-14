@@ -1,0 +1,10 @@
+.FirstPicture{
+    height: 100vh;
+    background-image: url(https://images.apple.com/v/home/dn/images/heroes/iphone-x/iphone_x_large.jpg);
+    background-position: 50% 72% ;
+    background-repeat: no-repeat;
+    background-color: #FAFAFA;
+    text-align: center;
+}
+
+
