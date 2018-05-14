@@ -148,3 +148,119 @@ div.iphone2 {
     left: 348px;
     margin-top: -53px;
 }
+
+.footer {
+    display: flex;
+    width: 100%;
+    height: 375px;
+    background-color: #f2f2f2;
+    position: absolute;
+    bottom: -2160px;
+}
+
+.col1 {
+    font-family: sfpro;
+    font-size: 11px;
+    color: #333;
+    list-style-type: none;
+    padding-right: 130px;
+    padding-left: 144px;
+}
+
+.col2 {
+    font-family: sfpro;
+    font-size: 11px;
+    color: #333;
+    list-style-type: none;
+    padding-right: 130px;
+}
+
+.col3 {
+    font-family: sfpro;
+    font-size: 11px;
+    color: #333;
+    list-style-type: none;
+}
+
+.col1 li {
+    margin: 10px;
+}
+
+.col2 li {
+    margin: 10px;
+}
+
+.col3 li {
+    margin: 10px;
+}
+
+.gras {
+    font-family: sfpro2;
+    font-size: 12px;
+}
+
+.downfooter {
+    height: 72px;
+    color: #888B92;
+    margin: 0px 13%;
+    font-size: 11px;
+    font-weight: 530;
+    font-family: sfpro1;
+    position: relative;
+    bottom: 426px;
+    right: 10px;
+}
+
+.resell {
+    margin: 0;
+    margin-bottom: 10px;
+}
+
+.resell a {
+    text-decoration: none;
+    color: #0070c9;
+}
+
+.CR {
+    margin: 0;
+}
+
+.final {
+    border-top: #D6D6D6 0.1px solid;
+}
+
+.pact {
+    display: inline-flex;
+    list-style-type: none;
+    padding: 0;
+}
+
+.terms {
+    margin-left: 30px;
+    font-weight: 600;
+}
+
+.use {
+    padding-right: 13px;
+    border-right: #D6D6D6 0.1px solid;
+}
+
+.map {
+    margin-left: 15px;
+}
+
+.isr {
+    float: right;
+    width: 48px;
+    height: 23px;
+    padding-top: 5px;
+}
+
+.flag {
+    float: left;
+    background-image: url(https://www.apple.com/ac/flags/1/images/il/16.png);
+    background-repeat: no-repeat;
+    height: 15px;
+    width: 52px;
+    text-align: right;
+}
