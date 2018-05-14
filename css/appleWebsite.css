@@ -59,3 +59,52 @@ body {
     font-weight: 400;
     font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
 }
+
+.page2 {
+    height: 594px;
+    width: 100%;
+    margin: 0;
+    margin-top: 12px;
+    display: flex;
+    flex-direction: column;
+    background-color: #f9f0eb;
+}
+
+.titles2 {
+    align-self: center;
+    text-align: center;
+
+}
+
+.titles2 h1 {
+    font-family: sfpro2;
+    color: #111;
+    font-size: 56px;
+    margin-bottom: 0;
+    margin-top: 42px;
+    font-weight: 600;
+    letter-spacing: -.005em;
+
+}
+
+.titles2 h2 {
+    font-family: sfpro2;
+    color: #111;
+    font-size: 27px;
+    margin-bottom: 87px;
+    margin-top: 7px;
+    font-weight: 400;
+    letter-spacing: .008em;
+}
+
+div.iphone2 {
+    background-image: url('./Pictures/iphone8.jpg');
+    height: 500px;
+    width: 44%;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-align: center;
+    position: relative;
+    left: 348px;
+    margin-top: -53px;
+}
