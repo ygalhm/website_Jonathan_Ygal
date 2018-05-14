@@ -45,7 +45,7 @@ body {
 
 .maintitle{
     position: relative;
-    top:25px;
+    top:100px;
     margin: 0;
     font-size: 56px;
     font-weight: 700;
@@ -53,7 +53,7 @@ body {
 }
 .subtitle{
     position: relative;
-    top:25px;
+    top:100px;
     margin: 0;
     font-size: 27px;
     font-weight: 400;
